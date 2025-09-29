@@ -10,6 +10,7 @@ The initial Sprint plan template is taken from the online course, Introduction t
 ## 29.09.2025
 * Several issues were labeled with priority levels (P0-High, P1-Medium, P2-Low).
 * A parent relation was assigned among two issues.
+
 Those implementations will help team members to identify and focus on high priority tasks, improves overall project management and task completion rates. This update will also enhance the planning and execution capability.
 
 
